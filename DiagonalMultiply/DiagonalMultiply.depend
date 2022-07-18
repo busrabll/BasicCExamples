@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654255484 source:c:\users\busra_bal\desktop\codeblocks project\diagonalmultiply\main.c
+	<stdio.h>
+	<stdlib.h>
+
